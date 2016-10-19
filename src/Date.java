@@ -2,7 +2,7 @@
  * Created by opilane on 19.10.2016.
  */
 public class Date {
-    public static void main(String[] args) {
+    public static void main(String[] args) { 
         System.out.print("Tere ");
         System.out.println("kõigile!");
         System.out.println("Täna on: ");
